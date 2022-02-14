@@ -22,10 +22,11 @@ body {
 #page-title {
     font-size: 20pt;
     font-family: "Bubblegum Sans", sans-serif;
+    color: #ffeda9;
+    text-shadow: 0px 2pt 0px #7e4722;
 }
 
 #page-logo {
-    transform: rotate(-90deg);
     height: 3em;
 }
 
